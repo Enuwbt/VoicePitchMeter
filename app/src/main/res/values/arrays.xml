@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="note_name_traditional">
+        <item>Do</item>
+        <item>Re</item>
+        <item>Mi</item>
+        <item>Fa</item>
+        <item>Sol</item>
+        <item>La</item>
+        <item>Si</item>
+    </array>
+    <array name="scale_list">
+        <item>C Major</item>
+        <item>C Minor</item>
+        <item>C♭ Major</item>
+        <item>C♯ Major</item>
+        <item>C♯ Minor</item>
+        <item>D Major</item>
+        <item>D Minor</item>
+        <item>D♭ Major</item>
+        <item>D♯ Minor</item>
+        <item>E Major</item>
+        <item>E Minor</item>
+        <item>E♭ Major</item>
+        <item>E♭ Minor</item>
+        <item>F Major</item>
+        <item>F Minor</item>
+        <item>F♯ Major</item>
+        <item>F♯ Minor</item>
+        <item>G Major</item>
+        <item>G Minor</item>
+        <item>G♭ Major</item>
+        <item>G♯ Minor</item>
+        <item>A Major</item>
+        <item>A Minor</item>
+        <item>A♭ Major</item>
+        <item>A♭ Minor</item>
+        <item>A♯ Minor</item>
+        <item>B Major</item>
+        <item>B Minor</item>
+        <item>B♭ Major</item>
+        <item>B♭ Minor</item>
+        <item>Chromatic</item>
+    </array>
+</resources>
